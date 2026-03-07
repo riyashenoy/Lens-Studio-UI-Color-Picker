@@ -1,3 +1,5 @@
+<img src="README_images/DemoGif.gif" width="50%">
+
 # Lens Studio UI Color Picker 
 Lens Studio AR UI workshop for Snap Spectacles. Learn how to build an interactive UI step guide with a color picker that modifies objects using environment-based inputs. Created for ACAD207 (USC Snap Spectacles Class).
 
